@@ -1,1 +1,1 @@
-# Marjelu user information and activity
+# User information and activity.
