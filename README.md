@@ -1,1 +1,1 @@
-# nuxtjs-auth
+# Marjelu user information and activity
